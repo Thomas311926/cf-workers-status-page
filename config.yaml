@@ -17,7 +17,7 @@ settings:
 monitors:
   - id: www-site # unique identifier
     name: www.text-input1234.tk
-    url: 'https://www.text-input1234.tk/' # URL to fetch
+    url: 'http://120.48.164.196/' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
